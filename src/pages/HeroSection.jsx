@@ -198,7 +198,7 @@ const HeroSection = () => {
                         transition={{ duration: 0.3 }}
                     >
                         <motion.img
-                            src='../public/hero.jpg'
+                            src='https://images.unsplash.com/photo-1615439935188-5e488fc6b764?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2VkZGluZyUyMGNvdXBsZXN8ZW58MHx8MHx8fDA%3D'
                             alt='Happy couple representing successful matches on Ti dating platform'
                             className='w-full max-w-xs sm:max-w-sm md:max-w-md h-72 sm:h-80 md:h-96 lg:w-[450px] lg:h-[450px] xl:w-[500px] xl:h-[500px] 2xl:w-[550px] 2xl:h-[550px] object-cover shadow-2xl rounded-2xl sm:rounded-3xl mx-auto'
                             initial={{ opacity: 0, scale: 0.9 }}

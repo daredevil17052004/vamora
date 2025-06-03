@@ -97,7 +97,7 @@ function HowTiWorksSection() {
   const successStories = [
     {
       names: "Priya & Michael",
-      image: "../../public/coup1.jpg",
+      image: "https://images.unsplash.com/photo-1565284339181-bc86d2de3790?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGNvdXBsZXN8ZW58MHx8MHx8fDA%3D",
       location: "Chennai, India → Toronto, Canada",
       story: "Two heart-to-heart chats and 6 months later, we found our perfect match!",
       rating: 5,
@@ -105,7 +105,7 @@ function HowTiWorksSection() {
     },
     {
       names: "Fatima & James",
-      image: "../../public/coup2.jpg",
+      image: "https://images.unsplash.com/photo-1619439822797-e0b6e7022373?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fGNvdXBsZXN8ZW58MHx8MHx8fDA%3D",
       location: "Dubai, UAE → London, UK",
       story: "Ti made the distance disappear. One beautiful story. It helped us bridge our worlds and find common ground in love.",
       rating: 5,
@@ -113,7 +113,7 @@ function HowTiWorksSection() {
     },
     {
       names: "Alex & Jordan",
-      image: "../../public/coup3.jpg",
+      image: "https://images.unsplash.com/photo-1539464443546-5e3512c46694?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEzfHxjb3VwbGVzfGVufDB8fDB8fHww",
       location: "Sydney, Australia → Berlin, Germany",
       story: "The inclusive platform gave us the space to be ourselves and find love without boundaries or judgement.",
       rating: 5,
